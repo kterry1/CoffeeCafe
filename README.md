@@ -11,8 +11,6 @@ Then type:
 ```js
     npm start
 ```
-
-### Since the Firebase authentication keys are not in the repo, the login and signup pages will not authenticate a user but otherwise the site will work as expected.
     
 
 ## Technologies Used
